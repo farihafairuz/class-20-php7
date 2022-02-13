@@ -15,6 +15,7 @@
         <ul class="navbar-nav ml-auto">
 <!--            <li class="nav-item"><a href="action.php?pages=home" class="nav-link">Word Count</a></li>-->
             <li class="nav-item"><a href="action.php?pages=home" class="nav-link">Series</a></li>
+            <li class="nav-item"><a href="action.php?pages=all-product" class="nav-link">All Products</a></li>
         </ul>
     </div>
 </nav>
